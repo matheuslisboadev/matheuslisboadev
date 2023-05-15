@@ -12,7 +12,7 @@ I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enth
 
 - Know/Using
 
-| [<img src="https://img.shields.io/badge/php-7a86b8.svg?style=for-the-badge&logo=php&logoColor=white" alt="php logo" width="24">](https://www.php.net/)  | [<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="js logo" width="38">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  | [<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt= "HTML5 logo" width="24">](https://www.w3.org/html/)  |  [<img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo" width="24">](https://www.w3schools.com/css/) |
+| [<img src="https://img.shields.io/badge/php-7a86b8.svg?style=for-the-badge&logo=php&logoColor=white" alt="php logo">](https://www.php.net/)  | [<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="js logo" >](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  | [<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt= "HTML5 logo">](https://www.w3.org/html/)  |  [<img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo">](https://www.w3schools.com/css/) |
 |---|---|---|---|---|---|
 
 - Learning
