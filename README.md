@@ -52,7 +52,7 @@ Connect with me in other plataforms!
 
 Contact me!
 
-[<img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter">]("mailto:matheuslisboadev@gmail.com?subject=Feedback%20From%20Github&body=Hello,")
+<img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> = matheuslisboadev@gmail.com
 
 
 
