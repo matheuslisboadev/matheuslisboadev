@@ -1,4 +1,4 @@
-### Hi! 💜
+### Hi! 💜🇧🇷
 
 I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enthusiast, Ex MUGEN Dev and Pixel Artist, loves RPG, Cyberpunk stories and Superhero Comics, always learning new things, ready for discussions and making new projects, maybe make a blog into dev.to about my studies etc.
 
@@ -8,7 +8,7 @@ I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enth
 ![Matheus Lisboa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslisboadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
 ----
 
-### Programming Languages and frameworks! 🌐
+### Programming Languages and frameworks!🍵
 
 - Know/Using
 
@@ -20,6 +20,7 @@ and many more...
 
 [<img src="https://img.shields.io/badge/php-7a86b8.svg?style=for-the-badge&logo=php&logoColor=white" alt="php logo">](https://www.php.net/)   [<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="js logo" >](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [<img src="https://img.shields.io/badge/Csharp-blueviolet.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp logo">](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
 [<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss logo">](https://tailwindcss.com/)
+[<img src="https://img.shields.io/badge/laravel-db0d0d.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel logo">](https://laravel.com/)
 [<img src="https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo">](https://getbootstrap.com/) and many more...
 
 
