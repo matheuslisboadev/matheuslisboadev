@@ -8,13 +8,6 @@ I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enth
 ![Matheus Lisboa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslisboadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/matheuslisboadev/matheuslisboadev/main/resources/img/github-contribution-grid-snake.svg"
-    alt="github stats" />
-</p>
-
-------
-
 ### Programming Languages and frameworks! 🌐
 
 - Know/Using
