@@ -5,7 +5,7 @@ I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enth
 - 😄 Pronouns: He/him
 
 
-![Matheus Lisboa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslisboadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/matheuslisboadev)
+![Matheus Lisboa's GitHub Stats][(https://github-readme-stats.vercel.app/api?username=matheuslisboadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/matheuslisboadev)
 ----
 
 <p align="center">
