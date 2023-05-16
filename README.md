@@ -52,7 +52,7 @@ Connect with me in other plataforms!
 
 Contact me!
 
-<img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> = matheuslisboadev@gmail.com
+my <img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> is matheuslisboadev@gmail.com
 
 
 
