@@ -1,63 +1,26 @@
-### Hi! 💜🇧🇷
-
-I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enthusiast, Ex MUGEN Dev and Pixel Artist, loves RPG, Cyberpunk stories and Superhero Comics, always learning new things, ready for discussions and making new projects, maybe make a blog into dev.to about my studies etc.
-
-- 😄 Pronouns: He/him
+# 💫 About Me:
+I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enthusiast, Ex MUGEN Dev and Pixel Artist, loves RPG, Cyberpunk stories and Superhero Comics, always learning new things, ready for discussions and making new projects, maybe make a blog into dev.to about my studies etc.<br><br>Pronouns: He/him
 
 
-![Matheus Lisboa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslisboadev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
-----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheuslisboadev) 
 
-### Programming Languages and frameworks! 🍵
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=matheuslisboadev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matheuslisboadev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslisboadev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- Know/Using
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=matheuslisboadev&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-[<img src="https://img.shields.io/badge/php-7a86b8.svg?style=for-the-badge&logo=php&logoColor=white" alt="php logo">](https://www.php.net/)   [<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="js logo" >](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  [<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt= "HTML5 logo">](https://www.w3.org/html/)   [<img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS logo">](https://www.w3schools.com/css/)  <img src="https://img.shields.io/badge/and_many_more...-c15eff.svg?style=for-the-badge&logo=plus&logoColor=white" alt="more">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-- Learning
-
-[<img src="https://img.shields.io/badge/php-7a86b8.svg?style=for-the-badge&logo=php&logoColor=white" alt="php logo">](https://www.php.net/)   [<img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="js logo" >](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [<img src="https://img.shields.io/badge/Csharp-blueviolet.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="Csharp logo">](https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/)
-[<img src="https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss logo">](https://tailwindcss.com/)
-[<img src="https://img.shields.io/badge/laravel-db0d0d.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel logo">](https://laravel.com/)
-[<img src="https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap logo">](https://getbootstrap.com/)  <img src="https://img.shields.io/badge/and_many_more...-c15eff.svg?style=for-the-badge&logo=plus&logoColor=white" alt="more">
-
-
-
-
-
-### Tools 🛠️
-
-- Know/Using
-
-[<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" >](https://git-scm.com/)  [<img src="https://img.shields.io/badge/github-blueviolet.svg?style=for-the-badge&logo=github&logoColor=white" alt="github logo" >]([https://git-scm.com/](https://github.com/matheuslisboadev))  [<img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode logo" >](https://code.visualstudio.com/) [<img src="https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure logo" >](https://azure.microsoft.com/en-us/products/virtual-desktop/)  [<img src="https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion logo" >](https://www.notion.so/)
-[<img src="https://img.shields.io/badge/sqlite-blue.svg?style=for-the-badge&logo=sqlite" alt="sqlite logo">](https://sqlite.org/index.html)
-[<img src="https://img.shields.io/badge/mysql-blueviolet.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo">](https://www.mysql.com/)
-<img src="https://img.shields.io/badge/and_many_more...-c15eff.svg?style=for-the-badge&logo=plus&logoColor=white" alt="more">
-
-
-
-- Learning
-
-[<img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo" >](https://www.docker.com/) [<img src="https://img.shields.io/badge/kubernetes-blue.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes logo" >](https://kubernetes.io/) [<img src="https://img.shields.io/badge/aws-orange.svg?style=for-the-badge&logo=amazonaws" alt="aws logo" >](https://aws.amazon.com/)  <img src="https://img.shields.io/badge/and_many_more...-c15eff.svg?style=for-the-badge&logo=plus&logoColor=white" alt="more">
-
-
-### Other Accounts 📫
-
-Connect with me in other plataforms!
-
-[<img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">]("https://dev.to/matheuslisboadev")
-[<img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">]("https://linkedin.com/in/matheuslisboadev")
-<img src="https://img.shields.io/badge/Twitter-733e98.svg??style=social&logo=twitter" alt="twitter">
-
-Contact me!
-
-my <img src="https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"> is matheuslisboadev@gmail.com
-
-
-
-
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=matheuslisboadev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=matheuslisboadev&icon=7&color=6)](https://visitcount.itsvg.in)
 
