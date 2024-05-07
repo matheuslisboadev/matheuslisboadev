@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enthusiast, Ex MUGEN Dev and Pixel Artist, loves RPG, Cyberpunk stories and Superhero Comics, always learning new things, ready for discussions and making new projects, maybe make a blog into dev.to about my studies etc.<br><br>Pronouns: He/him
+I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enthusiast, Ex MUGEN/Arduino Dev and Pixel Artist, loves RPG, Cyberpunk stories and Superhero Comics, always learning new things, ready for discussions and making new projects, maybe make a blog into dev.to about my studies etc.<br><br>Pronouns: He/him
 
 
 ## 🌐 Socials:
