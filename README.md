@@ -21,9 +21,6 @@ I am Matheus Lisboa from São Paulo, Brazil. IT internship and student, PHP enth
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=matheuslisboadev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=matheuslisboadev&icon=10&color=11)](https://visitcount.itsvg.in)
 
