@@ -2,7 +2,7 @@
 I am Matheus Lisboa from São Paulo, Brazil. BI Analyst, Python and PHP enthusiast, Ex MUGEN/Arduino Dev and Pixel Artist, loves RPG, Cyberpunk stories and Superhero Comics, always learning new things, ready for discussions and making new projects.<br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/473322601528164352) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuslisboadev/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sapphirusz) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/473322601528164352) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheuslisboadev/) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sapphirusz) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5627CC?style=flat&logo=microsoft%20power%20bi&logoColor=black)](https://matheuslisboa.tech/) 
 
 # 💻 Tech Stack:
