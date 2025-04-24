@@ -19,8 +19,6 @@ I am Matheus Lisboa from São Paulo, Brazil. BI Analyst, Python and PHP enthusia
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matheuslisboadev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=matheuslisboadev&limit=5&theme=dark&combine_all_yearly_contributions=true)
